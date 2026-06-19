@@ -1,0 +1,54 @@
+<<<<<<< HEAD
+venv/
+=======
+# 🔹 Python
+>>>>>>> f66392c84b67e0cc47088a25fedd998c507c3569
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+<<<<<<< HEAD
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.env
+*.db
+.DS_Store
+=======
+
+# 🔹 Virtual Environment
+.venv/
+venv/
+env/
+
+# 🔹 Environment variables (VERY IMPORTANT)
+.env
+
+# 🔹 VS Code
+.vscode/
+
+# 🔹 OS files
+.DS_Store
+Thumbs.db
+
+# 🔹 Logs
+*.log
+
+# 🔹 Build / cache
+*.egg-info/
+dist/
+build/
+
+# 🔹 Node (frontend later)
+node_modules/
+
+# 🔹 Testing
+.coverage
+htmlcov/
+
+# 🔹 Misc
+*.swp
+>>>>>>> f66392c84b67e0cc47088a25fedd998c507c3569
